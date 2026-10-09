@@ -260,7 +260,6 @@ hr{
     border-color: black;
 }
 
-
 main{
     flex: 1;
     width: 100%;
@@ -645,7 +644,7 @@ main{
     text-shadow: 0px 0px 34px var(--color-letter);
 }
 
-.letra-h1-Skills:nth-child(3){
+.letra-h1-Skills:nth-child(7){
     margin-left: 15px;
 }
 
@@ -880,7 +879,7 @@ main{
     text-shadow: 0px 0px 34px var(--color-letter);
 }
 
-.h1-projetos-span:nth-child(3){
+.h1-projetos-span:nth-child(5){
     margin-left: 15px;
 }
 
